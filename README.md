@@ -24,3 +24,6 @@ Illustrations for a romanian book.
 
 <img src="https://github.com/GhitaB/abc-book/blob/master/8-1-0%20bw.png" height="400" width="400">
 <img src="https://github.com/GhitaB/abc-book/blob/master/8-1-0.png" height="400" width="400">
+
+<img src="https://github.com/GhitaB/abc-book/blob/master/9-1-0%20bw.png" height="400" width="400">
+<img src="https://github.com/GhitaB/abc-book/blob/master/9-1-0.png" height="400" width="400">
