@@ -4,13 +4,8 @@ Illustrations for a romanian book.
 | Black and white | Color |
 | --------------- | ----- |
 | <img src="https://github.com/GhitaB/abc-book/blob/master/1-1-0%20bw.png" height="400" width="400"> | <img src="https://github.com/GhitaB/abc-book/blob/master/1-1-0.png" height="400" width="400"> |
-
-
-<img src="https://github.com/GhitaB/abc-book/blob/master/2-1-0%20bw.png" height="400" width="400">
-<img src="https://github.com/GhitaB/abc-book/blob/master/2-1-0.png" height="400" width="400">
-
-<img src="https://github.com/GhitaB/abc-book/blob/master/3-1-0%20bw.png" height="400" width="400">
-<img src="https://github.com/GhitaB/abc-book/blob/master/3-1-0.png" height="400" width="400">
+| <img src="https://github.com/GhitaB/abc-book/blob/master/2-1-0%20bw.png" height="400" width="400"> | <img src="https://github.com/GhitaB/abc-book/blob/master/2-1-0.png" height="400" width="400"> |
+| <img src="https://github.com/GhitaB/abc-book/blob/master/3-1-0%20bw.png" height="400" width="400"> | <img src="https://github.com/GhitaB/abc-book/blob/master/3-1-0.png" height="400" width="400"> |
 
 <img src="https://github.com/GhitaB/abc-book/blob/master/4-1-0%20bw.png" height="400" width="400">
 <img src="https://github.com/GhitaB/abc-book/blob/master/4-1-0.png" height="400" width="400">
