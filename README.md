@@ -25,3 +25,4 @@ Illustrations for a romanian book.
 | <img src="https://github.com/GhitaB/abc-book/blob/master/20-1-0%20T%20bw.png" height="400" width="400"> | <img src="https://github.com/GhitaB/abc-book/blob/master/20-1-0%20T.png" height="400" width="400"> |
 | <img src="https://github.com/GhitaB/abc-book/blob/master/21-1-0%20Tz%20bw.png" height="400" width="400"> | <img src="https://github.com/GhitaB/abc-book/blob/master/21-1-0%20Tz.png" height="400" width="400"> |
 | <img src="https://github.com/GhitaB/abc-book/blob/master/22-1-0%20U%20bw.png" height="400" width="400"> | <img src="https://github.com/GhitaB/abc-book/blob/master/22-1-0%20U.png" height="400" width="400"> |
+| <img src="https://github.com/GhitaB/abc-book/blob/master/23-1-0%20V%20bw.png" height="400" width="400"> | <img src="https://github.com/GhitaB/abc-book/blob/master/23-1-0%20V.png" height="400" width="400"> |
