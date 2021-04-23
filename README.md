@@ -28,3 +28,5 @@ Illustrations for a romanian book.
 | <img src="https://github.com/GhitaB/abc-book/blob/master/23-1-0%20V%20bw.png" height="400" width="400"> | <img src="https://github.com/GhitaB/abc-book/blob/master/23-1-0%20V.png" height="400" width="400"> |
 | <img src="https://github.com/GhitaB/abc-book/blob/master/24-1-0%20X%20bw.png" height="400" width="400"> | <img src="https://github.com/GhitaB/abc-book/blob/master/24-1-0%20X.png" height="400" width="400"> |
 | <img src="https://github.com/GhitaB/abc-book/blob/master/25-1-0%20Z%20bw.png" height="400" width="400"> | <img src="https://github.com/GhitaB/abc-book/blob/master/25-1-0%20Z.png" height="400" width="400"> |
+
+[![Contact me on Codementor](https://www.codementor.io/m-badges/ghitab/find-me-on-cm-b.svg)](https://www.codementor.io/@ghitab?refer=badge)
